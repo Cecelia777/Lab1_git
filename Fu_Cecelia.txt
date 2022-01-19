@@ -1,1 +1,4 @@
 Hello
+Name: Cecelia Fu
+Major: Statistics
+Emphasis: Data Science
